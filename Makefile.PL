@@ -30,7 +30,7 @@ my %WriteMakefileArgs = (
                                            },
                        'ABSTRACT' => 'Plack Middleware for mapping urls to status code-driven responses',
                        'EXE_FILES' => [],
-                       'VERSION' => '1.101040',
+                       'VERSION' => '1.101150',
                        'PREREQ_PM' => {
                                         'Plack::Middleware' => '0',
                                         'parent' => '0',

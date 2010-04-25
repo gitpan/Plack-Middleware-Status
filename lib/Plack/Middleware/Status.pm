@@ -8,7 +8,7 @@
 # 
 package Plack::Middleware::Status;
 BEGIN {
-  $Plack::Middleware::Status::VERSION = '1.101040';
+  $Plack::Middleware::Status::VERSION = '1.101150';
 }
 
 # ABSTRACT: Plack Middleware for mapping urls to status code-driven responses
@@ -59,7 +59,7 @@ Plack::Middleware::Status - Plack Middleware for mapping urls to status code-dri
 
 =head1 VERSION
 
-version 1.101040
+version 1.101150
 
 =head1 SYNOPSIS
 

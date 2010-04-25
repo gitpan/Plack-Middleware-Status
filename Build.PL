@@ -34,7 +34,7 @@ my %module_build_args = (
                                                  'ExtUtils::MakeMaker' => '6.31',
                                                  'Module::Build' => '0.3601'
                                                },
-                       'dist_version' => '1.101040'
+                       'dist_version' => '1.101150'
                      );
 
 

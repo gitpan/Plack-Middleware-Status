@@ -16,7 +16,7 @@
       "ExtUtils::MakeMaker" : "6.31",
       "Module::Build" : "0.3601"
    },
-   "generated_by" : "Dist::Zilla version 2.100991",
+   "generated_by" : "Dist::Zilla version 2.101040",
    "license" : "perl",
    "meta-spec" : {
       "url" : "http://module-build.sourceforge.net/META-spec-v1.4.html",
@@ -32,8 +32,8 @@
       "parent" : "0"
    },
    "resources" : {
-      "repository" : "origin"
+      "repository" : "http://github.com/pdonelan/Plack-Middleware-Status"
    },
-   "version" : "1.101040"
+   "version" : "1.101150"
 }
 
